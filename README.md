@@ -5,7 +5,7 @@
 </p>
 
 ## About Me <!-- About section as per GitHub Docs -->
-👋 Hello, I’m **Abdelkadre Mohamed** (English) and **عبدالقادر محمد** (عربي)  
+👋 Hello, I’m **Abdelkadre Mohamed**  
 I’m a Backend Developer passionate about building scalable APIs and real-time applications.  
 I love exploring new DB engines, optimizing performance, and writing clean, maintainable code. :contentReference[oaicite:5]{index=5}
 
