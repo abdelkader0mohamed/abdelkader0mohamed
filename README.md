@@ -25,7 +25,7 @@ I love exploring new DB engines, optimizing performance, and writing clean, main
 
 ## Skills  
 ### Backend & Databases  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
 ![Node.js](https://img.shields.io/badge/Node.js-Active-brightgreen)  
 ![Express.js](https://img.shields.io/badge/Express.js-404d59)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248)  
