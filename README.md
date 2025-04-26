@@ -57,4 +57,4 @@ I love exploring new DB engines, optimizing performance, and writing clean, main
 ---
 
 ## Animation  
-![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Go Logo](assets/go-logo-blue.png?raw=true)
