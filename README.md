@@ -19,8 +19,6 @@ I love exploring new DB engines, optimizing performance, and writing clean, main
   - [Testing & Documentation](#testing--documentation)  
   - [Programming Languages](#programming-languages)  
 - [GitHub Stats](#github-stats)  
-- [Logo](#logo)  
-
 ---
 
 ## Skills  
@@ -56,8 +54,4 @@ I love exploring new DB engines, optimizing performance, and writing clean, main
 ## GitHub Stats  
 [![Abdelkadre’s GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelkader0mohamed&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&bg_color=ffffff00)](https://github.com/abdelkader0mohamed)
 
----
-
-## Logo  
-![Go Logo](assets/go-logo-blue.png?raw=true)
 
