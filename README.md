@@ -36,7 +36,9 @@ I love exploring new DB engines, optimizing performance, and writing clean, main
 ### Templating & Frontend  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)  
 ![EJS](https://img.shields.io/badge/-EJS-B4CA65?logo=ejs&logoColor=white&style=flat)  
-![Socket.io](https://img.shields.io/badge/Socket.io-4.1.3-010101?logo=Socket.io&logoColor=white&style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-4.1.3-010101?logo=Socket.io&logoColor=white&style=flat-square)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ### Testing & Documentation  
 ![Unit Tests](https://img.shields.io/badge/Unit_Testing-passing-brightgreen)  
